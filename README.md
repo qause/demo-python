@@ -33,7 +33,8 @@ In order to complete these exercises you must complete the following prerequisit
 >   Click the following link if you're unsure how to [access your Sauce Labs credentials.](https://wiki.saucelabs.com/display/DOCS/Best+Practice%3A+Use+Environment+Variables+for+Authentication+Credentials)
 >   Also, if you start a new terminal in gitpod, you have to run the following command to reset envrionment variables:
 >   ```
->   eval $(gp env -e)
+>   eval $(gp env -e)eval $(gp env -e)
+
 >   ```
 >  
 >   For more information consult the [gitpod documentation](https://www.gitpod.io/docs/47_environment_variables/)
